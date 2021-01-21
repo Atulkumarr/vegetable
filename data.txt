@@ -1,0 +1,5 @@
+    background: linear-gradient(to right, rgba(23, 112, 110, 0.85), rgba(23, 112, 110, 0.45), rgba(23, 112, 110, 0.25));
+
+
+
+'Poppins', sans-serif
